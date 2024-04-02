@@ -1,0 +1,509 @@
+td`^
+/lib/ld-linux.so.2
+_IO_stdin_used
+strtol
+strlen
+__sprintf_chk
+exit
+signal
+write
+gethostbyname
+stdout
+alarm
+__cxa_finalize
+malloc
+__ctype_b_loc
+__isoc99_sscanf
+__libc_start_main
+__errno_location
+stderr
+socket
+gethostname
+__printf_chk
+puts
+stdin
+getenv
+read
+strcmp
+close
+fflush
+__memmove_chk
+fgets
+sleep
+strcpy
+fopen
+strcasecmp
+__fprintf_chk
+connect
+libc.so.6
+GLIBC_2.3
+GLIBC_2.1
+GLIBC_2.7
+GLIBC_2.3.4
+GLIBC_2.1.3
+GLIBC_2.34
+GLIBC_2.0
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+3h'@
+Use 
+help
+ hel
+p to
+ get
+ ass
+ista
+nce 
+@ for 
+@$gett
+@(ing 
+@,assi
+@0stan
+@4ce.
+\$,S
+UWVS
+D$0P
+L[^_]
+Sh p
+PhfC
+Sh q
+UWVS
+[^_]
+UWVS
+Erro
+r: C
+lien
+t un
+able
+ to 
+crea
+te s
+@ ockef
+Erro
+r: D
+NS i
+s un
+able
+ to 
+reso
+lve 
+@ serv
+@$er a
+@(ddref
+@,ss
+Erro
+r: U
+nabl
+e to
+ con
+nect
+ to 
+the 
+@ servf
+@$er
+Erro
+r: R
+esul
+t st
+ring
+ too
+ lar
+ge. 
+@ Incr
+@$ease
+@( SUB
+@,MITR
+@0_MAX
+@4BUF
+<_ur
+D$4P
+D$,P
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ hea
+@ ders
+@$ fro
+@(m se
+@,rver
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ fir
+@ st h
+@$eade
+@(r fr
+@,om s
+@0ervef
+T$(RPh
+[^_]
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ sta
+@ tus 
+@$mess
+@(age 
+@,from
+@0 ser
+@4ver
+Erro
+r: C
+lien
+t un
+able
+ to 
+writ
+e to
+@  the
+@$ ser
+@(ver
+t$(j
+Erro
+r: C
+lien
+t un
+able
+ to 
+crea
+te s
+F ockef
+Erro
+r: D
+NS i
+s un
+able
+ to 
+reso
+lve 
+F serv
+F$er a
+F(ddref
+F,ss
+%s: Error: Couldn't open %s
+Usage: %s [<input_file>]
+That's number 2.  Keep going!
+One step closer.
+Good work!  On to the next...
+One more!
+Welcome to my fiendish little bomb. You have 9 phases with
+which to blow yourself up. Have a nice day!
+Phase 1 defused. How about the next one?
+So you got that one.  Try this one.
+Impressive, but how about this?
+Good, but you're not done yet.
+sabres
+But what if the shark were made of glass?
+Use help help to get assistance for getting assistance.
+maduiersnfotvbylSo you think you can stop the bomb with ctrl-c, do you?
+Initialization error: Running on an illegal host [1]
+Initialization error: Running on an illegal host [2]
+Your instructor has been notified.
+Congratulations! You've defused the bomb!
+Your instructor has been notified and will verify your solution.
+Well...
+OK. :-)
+Invalid phase%s
+Initialization error:
+defused
+exploded
+%d:%s:%d:%s
+BOOM!!!
+The bomb has blown up.
+%d %d %d %d %d %d
+Error: Premature EOF on stdin
+GRADE_BOMB
+Error: Input line too long
+***truncated***
+cd.cs.rutgers.edu
+cp.cs.rutgers.edu
+grep.cs.rutgers.edu
+kill.cs.rutgers.edu
+less.cs.rutgers.edu
+ls.cs.rutgers.edu
+man.cs.rutgers.edu
+pwd.cs.rutgers.edu
+rm.cs.rutgers.edu
+top.cs.rutgers.edu
+vi.cs.rutgers.edu
+assembly.cs.rutgers.edu
+basic.cs.rutgers.edu
+batch.cs.rutgers.edu
+cpp.cs.rutgers.edu
+java.cs.rutgers.edu
+lisp.cs.rutgers.edu
+pascal.cs.rutgers.edu
+perl.cs.rutgers.edu
+prolog.cs.rutgers.edu
+python.cs.rutgers.edu
+ice.cs.rutgers.edu
+snow.cs.rutgers.edu
+butter.cs.rutgers.edu
+cheese.cs.rutgers.edu
+candle.cs.rutgers.edu
+frost.cs.rutgers.edu
+popsicle.cs.rutgers.edu
+plastic.cs.rutgers.edu
+crayon.cs.rutgers.edu
+wax.cs.rutgers.edu
+Program timed out after %d seconds
+Error: HTTP request failed with error %d: %s
+Error: Result string contains an illegal or unprintable character.
+GET /%s/submitr.pl/?userid=%s&lab=%s&result=%s&submit=submit HTTP/1.0
+Error: Unable to connect to server %s
+%%%02X
+%s %d %[a-zA-z ]
+AUTORESULT_STRING=%s
+Fall2023:01-04,13
+csapp
+;*2$"
+tab295
+GCC: (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+<Welcome to my fiendish little bomb. You have 9 phases with
+-which to blow yourself up. Have a nice day!
+*Phase 1 defused. How about the next one?
+That's number 2.  Keep going!
+One step closer.
+%So you got that one.  Try this one.
+Good work!  On to the next...
+!Impressive, but how about this?
+ Good, but you're not done yet.
+One more!
+:!	;
+;!$9
+printf
+__off_t
+_IO_read_ptr
+_chain
+size_t
+_shortbuf
+GNU C17 11.4.0 -m32 -mtune=generic -march=i686 -ggdb -O1 -fno-pie -fno-stack-protector -fasynchronous-unwind-tables -fstack-clash-protection
+long long unsigned int
+__int64_t
+long long int
+phase_defused
+_fileno
+_IO_read_end
+_flags
+_IO_buf_end
+_cur_column
+_IO_codecvt
+__printf_chk
+_old_offset
+infile
+initialize_bomb
+_IO_marker
+stdin
+_freeres_buf
+_IO_write_ptr
+short unsigned int
+_IO_save_base
+_lock
+_flags2
+_mode
+__builtin_puts
+_IO_write_end
+_IO_lock_t
+_IO_FILE
+read_line
+fopen
+_markers
+unsigned char
+short int
+_IO_wide_data
+_vtable_offset
+exit
+input
+__off64_t
+_IO_read_base
+_IO_save_end
+__fmt
+__pad5
+_unused2
+argv
+phase_1
+phase_2
+phase_3
+phase_4
+phase_5
+phase_6
+phase_7
+phase_8
+phase_9
+_IO_backup_base
+argc
+_freeres_list
+main
+_IO_write_base
+_IO_buf_base
+/common/home/davemm/211/pa3/src
+bomb.c
+/usr/include/bits
+/usr/lib/gcc/x86_64-linux-gnu/11/include
+/usr/include/bits/types
+/usr/include
+stdio2.h
+stddef.h
+types.h
+struct_FILE.h
+stdio.h
+phases.h
+support.h
+stdlib.h
+<built-in>
+Scrt1.o
+__abi_tag
+crtstuff.c
+deregister_tm_clones
+__do_global_dtors_aux
+completed.0
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+bomb.c
+phases.c
+array.0
+support.c
+sig_handler
+driverlib.c
+rio_readlineb
+__FRAME_END__
+_DYNAMIC
+__GNU_EH_FRAME_HDR
+_GLOBAL_OFFSET_TABLE_
+skip
+phase_defused
+strcmp@GLIBC_2.0
+__libc_start_main@GLIBC_2.34
+read@GLIBC_2.0
+_ITM_deregisterTMCloneTable
+__x86.get_pc_thunk.bx
+fflush@GLIBC_2.0
+stderr@GLIBC_2.0
+fgets@GLIBC_2.0
+_edata
+signal@GLIBC_2.0
+sleep@GLIBC_2.0
+_fini
+alarm@GLIBC_2.0
+num_input_strings
+phase_5
+initialize_bomb_solve
+phase_7
+blank_line
+phase_9
+submitr
+phase_3
+phase_1
+__x86.get_pc_thunk.dx
+invalid_phase
+init_driver
+__cxa_finalize@GLIBC_2.1.3
+strcpy@GLIBC_2.0
+node3
+explode_bomb
+gethostname@GLIBC_2.0
+node1
+getenv@GLIBC_2.0
+malloc@GLIBC_2.0
+__data_start
+puts@GLIBC_2.0
+node5
+__memmove_chk@GLIBC_2.3.4
+__gmon_start__
+exit@GLIBC_2.0
+__dso_handle
+fun9
+_IO_stdin_used
+host_table
+strlen@GLIBC_2.0
+write@GLIBC_2.0
+string_length
+strcasecmp@GLIBC_2.0
+stdin@GLIBC_2.0
+__isoc99_sscanf@GLIBC_2.7
+fopen@GLIBC_2.1
+func6
+_end
+__errno_location@GLIBC_2.0
+_fp_hw
+infile
+sigalrm_handler
+init_timeout
+stdout@GLIBC_2.0
+__bss_start
+userid
+main
+__printf_chk@GLIBC_2.3.4
+read_line
+strings_not_equal
+phase_4
+phase_8
+phase_6
+scratch
+driver_post
+send_msg
+phase_2
+bomb_id
+socket@GLIBC_2.0
+__TMC_END__
+__fprintf_chk@GLIBC_2.3.4
+_ITM_registerTMCloneTable
+node2
+node4
+gethostbyname@GLIBC_2.0
+strtol@GLIBC_2.0
+node6
+connect@GLIBC_2.0
+_init
+close@GLIBC_2.0
+read_six_numbers
+initialize_bomb
+__ctype_b_loc@GLIBC_2.3
+__sprintf_chk@GLIBC_2.3.4
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.data
+.bss
+.comment
+.debug_aranges
+.debug_info
+.debug_abbrev
+.debug_line
+.debug_str
+.debug_line_str
+.debug_loclists
